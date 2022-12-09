@@ -38,7 +38,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Frontend Mentor Submission](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor Submission](https://www.frontendmentor.io/solutions/profile-card-component-FBWpkakqjK)
 - Live Site URL: [Active GitHub Page](https://sikta2002.github.io/Profile_card_component-Frontend-Mentor/)
 
 ### Built with
@@ -49,6 +49,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website: <a href="https://github.com/Sikta2002" target="_blank">Sikta Mohanty</a>
-- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/Sikta2002" target="_blank">@Sikta2002</a>
-- Twitter - <a href="https://twitter.com/moonsikta" target="_blank">@moonsikta</a>
+- Website: <a href="https://github.com/Sikta2002">Sikta Mohanty</a>
+- Frontend Mentor - <a href="https://www.frontendmentor.io/profile/Sikta2002">@Sikta2002</a>
+- Twitter - <a href="https://twitter.com/moonsikta">@moonsikta</a>
