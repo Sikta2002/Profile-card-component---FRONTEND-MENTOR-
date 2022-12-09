@@ -34,7 +34,7 @@ body{
     align-items: center;
     justify-content: center;
     font-family: 'Kumbh Sans', sans-serif;
-    min-height: 95vh;
+    min-height: 93vh;
     font-size: var(--ft-size);
 }
 
